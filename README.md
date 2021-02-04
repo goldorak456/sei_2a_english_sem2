@@ -31,13 +31,19 @@ You are listening to our weekly science podcast with our today's guests :  Nyna 
 PART1
 +Guest1 - Imagine auto-subtitled zoom classes, such an opportunity for deaf people, just imagine HOW MUCH their lives could chage !
 +Guset2 - Oooosh. This is another topic we should not rush. Deaf people, and more generally disabled people, did not wait for us to find solutions. We should pay attention not forcing them a solution.
-+Guset1 - you what ? We are proposing them a gold solution to their issue, why would they not get satisfied with that ?
-+Guest2 -
++Guset1 - You what ? We are proposing them a gold solution to their issue, why would they not get satisfied with that ?
++Guest2 - I am not saying that such an innovative concept won't be necessary be accepted by the disable people, I am saying that we should really focus on
 
 
 5. End of argumenting
-+Guest1 - Ok I got the poit, I had no idea people could feel this way, that is some unanticiped
-6.
++Guest1 - Ok I got the point, I had no idea people could feel this way, that is some unforeseen consequences. But, I'm kinda puzzled, does it mean we should not allow this tts ?
++Guest2 - Of course not ! People right does mean the end of innovation and creatin, simply that we should make sure we know what we're doing and that we actually ask the 'customer' their opinion before thowing off ideas. Research is research, you never know where it's going, but commercialisation is not !
+
+6. Conclusion
+
+Interviewer - Alrigth what a sweet conclusion to my ears. Once again, tech is not just some flashy RGB huh ? Next week : "yet another example" ! See you soon ladies and gents' !
+
+
 The end
 
 
@@ -76,7 +82,7 @@ Will you interview anyone? Who? Using what questions? Where?
 
 Will you use existing news clips to comment/ parts of speeches: which ones?
 
-  Not sure yet.
+ A jingle !
 
 Will the podcast include storytelling? What stories will be included? What moment or scene will make the story unforgettable? How can you illustrate it in a way that’s interesting? Why would your audience want to listen to this? Is there a big, compelling idea? A character whose story should be prioritized? An emotional or intellectual thread that can run throughout the story? Are there ear- grabbing ways to attract the audience?
 
