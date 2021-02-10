@@ -15,33 +15,46 @@ Structure of the Radio Advertisement Speech :
   our product.
 
 2.  Introducing the issue
-Interviewer - You didn't heared a thing did you ? It's coz you're using such a low-qulity mic to record. TODAY !!!......Our solution to your zoom classes' issue ! let us introduce a text-to-speech device to our weekly show "Techy things that made your life you weren't aware of". Hey, guy1, tell us about it !
+
+Interviewer - You didn't heared a thing did you ? It's coz you're using such a low-quality mic to record. TODAY !!!......Our solution to your zoom classes' issue ! let us introduce a text-to-speech device to our weekly show "Techy things that made your life you weren't aware of".
 You are listening to our weekly science podcast with our today's guests :  Nyna Rotip a professor at the polytech of Nice school and Onarsep Calu a Teacher at Cambridge University.
+So Nyna, tell us about your new toy and what it has to do with with creepy buggy audio noises ?
 
 3. Student distant communication issues
 
-+Guest1 - The tts that has been developped by Mexico City team of researchers is a MASSIVE breakthrough ! It is an open source AI driven voice detector that would analyze you speech and translate it to text.
-          Get over with quarantine solitude ! This new tech could fundamentelly change our internet interactions
-+Interviewer - Hey guest2, as an expert in social interaction, do you agree with that statement?
-+Guest2 - Yes I do. Allow students to fake distant conversation even when 'typing', no need for a high quality microphone nor a fast internet connection. It could change the way we interact online, and we
-          know how internet is full of consequences on our so-called "real-life".
++NYNA - The tts that has been developped by Mexico City team of researchers is a MASSIVE breakthrough ! It is an open source AI driven voice detector that would analyze you speech and translate it to text.
+Get over with quarantine solitude ! This new tech could fundamentelly change our internet interactions ! You can't imagine how much communication has changed tanks to internet, and now this kind of new tts could scramble it all over again. We already know how video media is changig our way to consume knowledge, now imagine we could also produce it with our voice, how handy it could be. Forget about paper, pen, keyboard and broken touchpads!
++Interviewer - Hey M. Calu, as an expert in social interaction, how would you react to such promising statement?
++CALU - I am definitely not an expert in mechanics, so I won't talk about such things. However, allowing students to fake distant conversation even when 'typing', no need for a high quality microphone nor a fast internet connection, no need to interrupt you teacher to make a vocal answer, you could just leave a message to your online friends while doing absolutely everything else. It could change the way we interact online, and we know how internet is full of consequences on our so-called "real-life".
++NYNA - Yeah, that what I was thinking about. We know we're living such a painful, never-ending pandemci crises, and so many of us don't get to see anyone a day, and believe spending a whole week without talking to anyone can make you feel lonely though you know people you knew are reachable. A tts device might not look that much of a difference, but believe me know some little tools we never thought of can change everything.
++CALU - I definitely agree with that. Take for instance social networks, they all have, in the end, the same purpose, but the tools they provide, be it sharing text, pictures or videos, a more complete collection of emojis or whatever, drastically change the way they are used, and so the public they address.
 
 4. Deaf people argumenting
 
 PART1
-+Guest1 - Imagine auto-subtitled zoom classes, such an opportunity for deaf people, just imagine HOW MUCH their lives could chage !
-+Guset2 - Oooosh. This is another topic we should not rush. Deaf people, and more generally disabled people, did not wait for us to find solutions. We should pay attention not forcing them a solution.
-+Guset1 - You what ? We are proposing them a gold solution to their issue, why would they not get satisfied with that ?
-+Guest2 - I am not saying that such an innovative concept won't be necessary be accepted by the disable people, I am saying that we should really focus on
+
++NYNA About the people who could profit from such technologies, just imagine auto-subtitled zoom classes, such an opportunity for deaf people, just imagine HOW MUCH their lives could change!
++CALU - Oooosh. This is another topic we should not rush. Deaf people, and more generally disabled people, did not wait for us to find solutions. We should pay attention not forcing one to them.
++NYNA - Wait what? We are proposing them a gold solution to their issue, and more particularly for this covid 19 crisis, why would they not get satisfied with that? I believe the government could make a zero fee distribution for non hearing persons to help them out!
++CALU - I am not saying that such an innovative concept won't be necessary be accepted by the disable people, I am saying that we should really focus on the philosophy of the product. The motivations behind it  can have a great impact on non hearing persons' feelings, and they might refuse to use it if you have the wrong approach. Saying you want to help deaf people, de facto make them as people in need. Unfortunately or not, and you cannot blame them for that, so-called disabled people want to be considred as any other, because they actually are regular people.
++NYNA - I don't get the point. I understand it is peharps some harsh essentialism, but disabled people, remain 'special', and it is our duty to help everybody.
++CALU - I can definitely ubderstand a generous feeling, but you might already know the moto "people are not disabled, society is". Only a society as a whole, which goal is to include everyone as equals, can remedy this kind of matter. Even kindly asking to use a tts is a form of oppression saying, personnaly, "you're different, and I require you to make an effort" which is extremely different from "an unamed, unpersonnal law, has decided that, in a global effort, auto-subtitles must be turned on by law, so that it becomes a standard". If you want, perhaps, an easier example, respiratory mask is kind of the same topic. It is much more ethic to require industries to fabricate transparant masks for everyone, than to make a difficult specialized distribution for deaf persons' relations, or even worse, to blame them for asking us to wear one.
+
+ROTIP = 1
+ ****Focusing on saying that you are trying to help deaf people, those persons who genuinely want to be looked at as anyone else, can be interpreted infantilising them, even more if the government imposes it, as you suggest.  I think there might be better solutions such as transparent masks for everyone.****
+
 
 
 5. End of argumenting
-+Guest1 - Ok I got the point, I had no idea people could feel this way, that is some unforeseen consequences. But, I'm kinda puzzled, does it mean we should not allow this tts ?
-+Guest2 - Of course not ! People right does mean the end of innovation and creatin, simply that we should make sure we know what we're doing and that we actually ask the 'customer' their opinion before thowing off ideas. Research is research, you never know where it's going, but commercialisation is not !
+
++NYNA - I get what you are trying to say. Well in the end I think it remains as always a financial issue. No country will do such an expensive thing. Still, I think the Mexico university has a very good approach, and I believe you would agree with it. As a matter of fact, they decided to make their project open source, wich leaves room for all kinds of projects. It might be for deaf persons, or students, no matter what, if you want to use it, it is free accessible, and revolutionnary ! If you are a nerd and want to contribute to the project, I believe your help will be well regarded ! This is a major breakthrough in such a domain as the majority of efficient text-to-speech or speech-to-text programs are proprietary !
+
 
 6. Conclusion
 
-Interviewer - Alrigth what a sweet conclusion to my ears. Once again, tech is not just some flashy RGB huh ? Next week : "yet another example" ! See you soon ladies and gents' !
+Interviewer - Alrigth alright! What a sweet conclusion to my ears! Once again, tech is not just some flashy RGB huh ? Next week : 5G antenna vaccines, or how we will be about to eventually get wi-fi everywhere! See you soon ladies and gents'!
+
+TARDIS SOUND
 
 
 The end
